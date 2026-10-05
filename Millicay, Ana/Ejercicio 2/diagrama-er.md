@@ -1,5 +1,7 @@
 # Diagrama entidad-relación - Ejercicio 2
 
+![Diagrama ER](diagrama-er.png)
+
 ```mermaid
 erDiagram
     TAREAS {

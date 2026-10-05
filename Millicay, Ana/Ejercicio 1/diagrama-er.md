@@ -1,5 +1,7 @@
 # Diagrama entidad-relación - Ejercicio 1
 
+![Diagrama ER](diagrama-er.png)
+
 ```mermaid
 erDiagram
     RECTANGULOS {

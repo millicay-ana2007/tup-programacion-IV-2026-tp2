@@ -1,5 +1,7 @@
 # Diagrama Entidad-Relación - Ejercicio 3
 
+![Diagrama ER](diagrama-er.png)
+
 ```mermaid
 erDiagram
     MATERIAS ||--o{ CALIFICACIONES : "tiene"
